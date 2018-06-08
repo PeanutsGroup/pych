@@ -1,0 +1,13 @@
+site_name: pych
+site_description: My python tools.
+site_author: JuneQ Cheung
+repo_url: https://github.com/PeanutsGroup/pych
+
+theme: readthedocs
+
+pages:
+- Home: index.md
+- About:
+  - Release Notes: about/changelog.md
+  - Contributing: about/contributing.md
+  - License: about/license.md
